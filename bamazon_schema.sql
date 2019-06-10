@@ -17,7 +17,7 @@ VALUES
   ("Invisibility Cloak", "You Wish", 49.95, 45),
   ("Phaser", "You Wish", 119.95, 50),
   ("Head Poker", "Zompocalypse", 19.95, 5),
-  ("Solid Rubber Tires", "Zompocalypse", 59.95, 120),
+  ("Solid Rubber Tire", "Zompocalypse", 59.95, 120),
   ("Water Filter Straw", "Zompocalypse", 9.95, 400),
   ("Inflatable Tent", "Camping", 299.95, 8),
   ("Pop-up Canopy", "Camping", 99.95, 15),
