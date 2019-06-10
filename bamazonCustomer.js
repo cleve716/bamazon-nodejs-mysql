@@ -36,10 +36,10 @@ function showProducts() {
 
         console.log("____________________________");
         console.log();
-        console.log("BAMAZON.COM");
+        console.log("Welcome to BAMAZON.COM");
         console.log("____________________________");
         console.log();
-        console.log("See your options below");
+        console.log("Please select from the items below:");
         console.log("____________________________");
         console.log();
         console.log(table.toString());
